@@ -12,8 +12,8 @@ This project consists of two Spring Boot microservices:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/ftkhlumam22/springboot-microservice.git
-    cd springboot-microservice
+    git clone https://github.com/ftkhlumam22/springboot-demo.git
+    cd springboot-demo
     ```
 
 2. **Configure Application Properties**
